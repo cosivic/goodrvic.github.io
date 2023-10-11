@@ -1,0 +1,21 @@
+html {
+    font-size: 18px;
+  }
+  body {
+    background-color: hsla(145, 12%, 70%, 0.476);
+    color: rgb(0, 0, 0);
+  }
+
+h3 {
+    text-align:left;
+}
+
+a {
+  color:rgb(61, 67, 73);
+}
+a:visited {
+  color:rgb(143, 39, 159);
+}
+a:hover, a:active {
+  color:#eee;
+}
